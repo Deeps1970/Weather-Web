@@ -2,16 +2,13 @@
 
 A sleek and fully responsive **Weather Web Application** that displays real-time weather data for any city using the **OpenWeatherMap API**. Built with HTML, CSS (Glassmorphism style), and JavaScript.
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+---
 
 ## 📸 Screenshots
 
 | Desktop View | Mobile View | Tablet View |
 |--------------|-------------|-------------|
 | ![Desktop](./github/desktop-view.png) | ![Mobile](./github/tablet-view.png) | ![Tablet](./github/mobile-view.png) |
-
 
 ---
 
@@ -37,9 +34,6 @@ A sleek and fully responsive **Weather Web Application** that displays real-time
 - **CSS3** (Flexbox + Glassmorphism UI)
 - **JavaScript (Vanilla JS)**
 - **OpenWeatherMap API**
-
----
-
 
 ---
 
