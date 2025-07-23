@@ -6,9 +6,9 @@ A sleek and fully responsive **Weather Web Application** that displays real-time
 
 ## 📸 Screenshots
 
-| Desktop View | Mobile View | Tablet View |
+| Desktop View | Tablet View | Mobile View |
 |--------------|-------------|-------------|
-| ![Desktop](./src/github/desktop-view.png) | ![Mobile](./src/github/tablet-view.png) | ![Tablet](./src/github/mobile-view.png) |
+| ![Desktop](./src/github/desktop-view.png) | ![Tablet](./src/github/tablet-view.png) | ![Mobile](./src/github/mobile-view.png) |
 
 ---
 
