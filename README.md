@@ -8,7 +8,7 @@ A sleek and fully responsive **Weather Web Application** that displays real-time
 
 | Desktop View | Mobile View | Tablet View |
 |--------------|-------------|-------------|
-| ![Desktop](./github/desktop-view.png) | ![Mobile](./github/tablet-view.png) | ![Tablet](./github/mobile-view.png) |
+| ![Desktop](./src/github/desktop-view.png) | ![Mobile](./src/github/tablet-view.png) | ![Tablet](./src/github/mobile-view.png) |
 
 ---
 
