@@ -14,7 +14,7 @@ A sleek and fully responsive **Weather Web Application** that displays real-time
 
 ## 🌐 Live Demo
 
-- [Click here to view live demo!](https://deeps1970.github.io/ApexPlanet-Task3-Internship/)
+- [Click here to view live demo!](https://deeps1970.github.io/ApexPlanet-Task3.1-Internship/)
 
 ---
 
